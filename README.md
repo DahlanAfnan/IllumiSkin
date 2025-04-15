@@ -1,1 +1,1 @@
-Skin Disease Diagnosis Using Computer Vision and Deep Learning
+IllumiSkin - Skin Disease Diagnosis Using Computer Vision and Deep Learning
